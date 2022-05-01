@@ -8,6 +8,6 @@ public class skillDemoTest {
     
     @Test
     public void testIsPositive(){
-        assertTrue(skillDemo.isPositive(-3));
+        assertTrue(skillDemo.isPositive(5));
     }
 }
